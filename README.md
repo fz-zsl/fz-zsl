@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Shengli Zhou 👋
 
 <!--
 **fz-zsl/fz-zsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fz-zsl)](https://github.com/fz-zsl/github-readme-stats)
+
+📫 Email: zhousl2022@mail.sustech.edu.cn
