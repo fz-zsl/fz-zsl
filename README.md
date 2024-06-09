@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fz-zsl)](https://github.com/fz-zsl/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fz-zsl)
 
 📫 Email: zhousl2022@mail.sustech.edu.cn
