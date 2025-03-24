@@ -1,4 +1,4 @@
-### Hi there, I'm Shengli Zhou 👋
+### Hi there 👋
 
 <!--
 **fz-zsl/fz-zsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Shengli Zhou, a third-year undergraduate in Computer Science and Technology at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn). I'm doing research at [VIP Lab](https://zhengfenglab.com/), supervised by [Prof. Feng Zheng](https://www.sustech.edu.cn/en/faculties/zhengfeng.html). My research interest mainly focuses on Multi-modal Perception and Embodied Intelligence.
+
+- 🔭 My personal website: [fz-zsl.github.io](https://fz-zsl.github.io/)
+- 📫 How to reach me: zhousl2022@mail.sustech.edu.cn
+
+### GitHub Statistics
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fz-zsl)](https://github.com/fz-zsl/github-readme-stats)
-
-🔭 Website: [fz-zsl.github.io](https://fz-zsl.github.io/)
-
-📫 Email: zhousl2022@mail.sustech.edu.cn
