@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Shengli Zhou, a fourth-year undergraduate in Computer Science and Technology at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn). I'm doing research at [VIP Lab](https://zhengfenglab.com/), supervised by [Prof. Feng Zheng](https://www.sustech.edu.cn/en/faculties/zhengfeng.html). My research interest mainly focuses on multimodal perception and embodied intelligence.
+I'm Shengli Zhou, a fourth-year undergraduate in Computer Science and Technology at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn). I'm doing research at [STAR Lab](https://zhengfenglab.com/), supervised by [Prof. Feng Zheng](https://www.sustech.edu.cn/en/faculties/zhengfeng.html). My research interest mainly focuses on multimodal perception and embodied intelligence.
 
 - 🔭 My personal website: [fz-zsl.github.io](https://fz-zsl.github.io/)
 - 📫 How to reach me: zhousl2022@mail.sustech.edu.cn
