@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Shengli Zhou, a fourth-year undergraduate in Computer Science and Technology at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn).
+My name is Shengli Zhou, and I am a postgraduate student majoring in Computer Science at [The Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk). Prior to my master's studies, I completed my undergraduate program at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn), where I was awarded an Honors Bachelor of Engineering degree. I am actively seeking full-time job opportunities commencing in Fall 2027.
 
 - 🔭 My personal website: [fz-zsl.github.io](https://fz-zsl.github.io/about)
-- 📫 How to reach me: zhousl2004@gmail.com
-- 🔥 Grows toward the sun & enture forth to embrace the boundless unknown
+- 🌱 I'm currently working on multimodal learning for 3D vision-language tasks and short drama generation.
+- 📫 How to reach me: zhousl2004@outlook.com
+- 🔥 Enture forth to embrace the boundless unknown (去看看未见的广袤！)
 
 <!-- ### GitHub Statistics
 
